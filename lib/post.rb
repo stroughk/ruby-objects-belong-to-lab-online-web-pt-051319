@@ -1,7 +1,7 @@
-def Post  
+class Post  
   
-  def initialize(title)
-    @title = title
+attr_accessor   :
+
   end 
     
   
