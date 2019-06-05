@@ -1,14 +1,9 @@
-def Post  
+class Post  
   
-  def initialize(title)
-    @title = title
-  end 
+attr_accessor   :title,  :author
+
+end 
     
   
   
-end 
 
-post = Post.new("Hello World")
-post.title 
-author = Author.new("Uncle Bob")
-author.name 
