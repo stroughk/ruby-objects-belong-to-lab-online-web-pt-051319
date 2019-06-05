@@ -1,14 +1,9 @@
 class Post  
   
-attr_accessor   :
+attr_accessor   :title,  :author
 
-  end 
+end 
     
   
   
-end 
 
-post = Post.new("Hello World")
-post.title 
-author = Author.new("Uncle Bob")
-author.name 
